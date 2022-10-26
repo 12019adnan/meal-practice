@@ -1,0 +1,29 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    background-color: #23180d;
+    padding: 20px;
+    /* margin-top: 10px; */
+}
+.navLinks{
+    margin-top: 5px;
+}
+.navLinks a{
+    margin: 40px;
+    text-decoration: none;
+    color: white;
+    padding: 7px;
+    padding-bottom: 10px;
+    
+}
+.home{
+    background-color: #c52d2f;
+    padding: 7px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+}
+.navLinks a:hover{
+    background-color: #c52d2f;
+    transition: ease 0.2s;
+    border-radius: 5px;
+}

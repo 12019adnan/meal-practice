@@ -1,0 +1,65 @@
+.mainBlog{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 65%;
+    padding-left: 17%;
+    padding-top: 20px;
+    text-align: center;  
+    color: rgba(255, 255, 255, 0.944);  
+}
+/* #paypal{
+    margin: 5px;
+} */
+.paypal{
+    font-weight: bold;
+    background-color: #ffc439;
+    padding: 4px;
+    border-radius: 4px;
+}
+.paypalSpan{
+    color: #009cde;
+}
+.span1{
+    color: #003087;
+}
+.mainBlog img{
+    width: 200px;
+}
+#inputValue{
+    border: none;
+    border-radius: 3px;
+    width: 20%;
+    padding: 5px;
+}
+hr{
+    width: 1000px;
+}
+.inputField-container{
+    text-align: center;
+    color: white;
+    margin-top: 27px;
+    margin-bottom: 17px;
+}
+.inputField{
+    margin-top: 17px;
+}
+/* .restaurant-menu{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    grid-column-gap: 10px;
+} */
+
+.small-img-blog img{
+    width: 15px;
+    padding-top: 5px;
+}
+.meals-container{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    text-align: center;
+    grid-column-gap:30px;
+    width: 80px;
+    margin-left:300px;
+    margin-top:50px;
+}

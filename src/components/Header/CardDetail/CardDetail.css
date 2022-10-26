@@ -1,0 +1,17 @@
+.mealCardDetail{
+    display: flex;
+    justify-content: space-around;
+    margin: 50px;
+    margin-top:9%;
+}
+.mealCardDetail-info{
+    /* padding-left: 20px; */
+    width: 50%;
+}
+.mealCardDetail img{
+    width: 420px;
+    border-radius: 5px;
+}
+.mealCardDetail p{
+    color: gainsboro;
+}

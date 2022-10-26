@@ -1,0 +1,20 @@
+.card{
+    padding: 0px;
+    margin-top: 10px;
+}
+.card a{
+    margin: 0;
+    color: #d57d1f;
+    text-decoration: none;
+}
+.card :hover{
+    color: #ffd7ac;
+    transition: ease 0.4s;
+    cursor: pointer;
+}
+.card img{
+    width: 210px;
+}
+/* .card p{
+
+} */
